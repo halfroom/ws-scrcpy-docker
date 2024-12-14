@@ -1,5 +1,5 @@
 FROM node:18
-MAINTAINER Scavin <scavin@appinn.com>
+MAINTAINER halfroom <kirkven@hotmail.com>
 
 ENV LANG C.UTF-8
 WORKDIR /ws-scrcpy
